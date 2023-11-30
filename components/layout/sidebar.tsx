@@ -9,19 +9,19 @@ import { FaUser } from "react-icons/fa";
 export const Sidebar = () => {
     const items = [
         {
-           label: "Home",
+           label: "Início",
            href: '/',
            icon: BsHouseFill
         },
 
         {
-          label: "Notifications",
+          label: "Notificações",
           href: '/notifications',
           icon:  BsBellFill
         },
 
         {
-          label: "Profile",
+          label: "Perfil",
           href: '/users/123',
           icon: FaUser
         },
