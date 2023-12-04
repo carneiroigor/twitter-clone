@@ -1,11 +1,26 @@
-# Twitter Clone React App
+<h1 align="center" style="color: #1DA1F2; font-weight: bold;">
+  Twitter Clone
+</h1>
 
-An app that is a clone of the famous Twitter.
+<p align="center">
+ <a href="#tech">Technologies</a> • 
+ <a href="#deploy">Deploy</a>
+</p>
 
-- Use React + Next JS and TailWind for the Frontend.
+<p align="center">
+<b>An app that is a clone of the famous Twitter.</b>
+</p>
 
-- Use MongoDB for DataBase.
+<h2 id="tech">Technologies 💻</h2>
 
-- NextAuth fot autentication.
+- **React + NextJS**
 
-- Deploy on Vercel = (link here)
+- **Tailwind CSS**
+
+- **MongoDB**
+
+- **NextAuth**
+
+<h2 id="deploy">Deploy 🌐</h2>
+
+You can find the deployed app at: (link)
