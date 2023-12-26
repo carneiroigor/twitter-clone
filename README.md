@@ -23,4 +23,4 @@
 
 <h2 id="deploy">Deploy 🌐</h2>
 
-You can find the deployed app at: (NOT FINISHED)
+You can find the deployed app at: (NOT-FINISHED)
