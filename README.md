@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<b>An app that is a clone of Twitter.</b>
+<b>App that is a clone of Twitter.</b>
 </p>
 
 <h2 id="tech">Technologies 💻</h2>
